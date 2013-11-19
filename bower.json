@@ -3,7 +3,7 @@
     "version": "0.0.0",
 
     "dependencies": {
-        "jqgrid": "basejump/jqGrid#v4.4.4-tweaks",
+        "jqgrid": "tonytomov/jqGrid#v4.5.4",
         "jquery": "1.9.1",
         "underscore": "~1.4.4",
 
